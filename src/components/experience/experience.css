@@ -1,0 +1,132 @@
+.experience__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.experience__container > div {
+    background: var(--color-bg-variant);
+    padding: 2.5rem 5rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+}
+
+
+.experience__container > div:hover {
+    transition: var(--transition-400);
+    background: transparent;
+    border-color: var(--color-primary-50);
+    cursor: default;
+}
+
+.experience__container > div h3{
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--color-primary);
+}
+
+.experience__content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 2rem;
+}
+
+.experience__details{
+    color: var(--color-white);
+    display: flex;
+    gap: 1rem;
+}
+
+.experience__details-icon{
+    color: var(--color-primary);
+    font-size: 2rem;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.experience__details-icon:hover{
+    cursor: pointer;
+    transition: var(--transition-400);
+    background: var(--color-primary);
+    color: var(--color-white);
+}
+
+@media screen and (max-width: 1024px){
+
+    .experience__details-icon{
+        font-size: 2rem;
+    }
+
+    .experience__container{
+        width: var(--container-width-lg);
+        margin: 0 auto;
+        display: grid;
+        gap: 1rem;
+    }
+    .experience__content{
+        grid-template-columns: 2fr;
+        gap: 1rem;
+    }
+}
+
+@media screen and (max-width: 700px){
+
+
+    .experience__container > div {
+        margin: 0 auto;
+        width: var(--container-width-lg);
+        background: var(--color-bg-variant);
+        padding: 2.5rem 2rem;
+        border-radius: 2rem;
+        border: 1px solid transparent;
+    }
+
+    .experience__details-icon{
+        font-size: 2rem;
+    }
+
+    .experience__container{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .experience__content{
+        grid-template-columns: 2fr;
+        gap: 1rem;
+    }
+}
+
+@media screen and (max-width: 290px){
+
+    .experience__details-icon{
+        font-size: 2.1rem;
+    }
+
+    .experience__details{
+        display: block;
+    }
+
+    .experience__container{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .experience__content{
+        grid-template-columns: 2fr;
+        gap: 1rem;
+    }
+
+    .experience__container > div {
+        margin: 0 auto;
+        width: var(--container-width-lg);
+        background: var(--color-bg-variant);
+        padding: 2.5rem 2rem;
+        border-radius: 2rem;
+        border: 1px solid transparent;
+    }
+}
+

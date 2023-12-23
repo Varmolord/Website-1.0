@@ -1,0 +1,27 @@
+.settings{
+    text-align: right;
+    margin-top:1rem;
+}
+
+.dropdown__menu{
+    background: transparent;
+}
+
+.language__dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown__menu{
+    display: none;
+    position: absolute;
+    z-index: 1;
+}
+
+.language__dropdown:hover .dropdown__menu{
+    display: block;
+}
+
+button{
+    cursor: pointer;
+}

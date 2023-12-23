@@ -1,0 +1,181 @@
+{
+    "app_title": "VARMOLORD",
+    "app_desc": "GRAFIK · PROGRAMÁTOR",
+    "language": "JAZYK",
+    "change_lang": "PŘELOŽIT DO",
+    "copyright_title": "VARMOLORD © Copyright 2022. ",
+    "copyright_desc": " Všechna práva vyhrazena.",
+
+    "about_title": "O MNĚ",
+    "about_desc": "ZJISTI VÍCE",
+    "about_programs": "Programy které využívám:",
+
+
+    "about_graphics_title": "GRAFIKA",
+    "about_graphics_desc": "S grafikou jsem začal zhruba v polovině roku 2015 a od té doby se v něm stále snažím zlepšovat.",
+
+    "about_commissions_title": "ZAKÁZKY",
+    "about_commissions_desc": "Se zakázkami jsem začal v roce 2019. Za každou zakázku jsem velice rád protože mne naučí mnoho nového.",
+    "about_commissions_desc_1": "Již mám za sebou ",
+    "about_commissions_number": "20+",
+    "about_commissions_desc_2": " úspěšných zakázek.",
+
+
+    "about_programming_title": "PROGRAMOVÁNÍ",
+    "about_programming_desc": "Programovat jsem začal zhruba na konci roku 2018. Otevřelo mi to nový pohled na svět informační technologie a snažím se v něm posouvat co jen to jde protože v něm vidím budoucnost.",
+    "about_languages": "Jazyky které využívám:",
+
+    "about_computer_title": "POČÍTAČ",
+    "about_computer_desc": "Tento počítač využívám na hraní nejnovějších herních titulů ale hlavně na grafickou tvorbu.",
+    "about_computer_case_title": "Skříň:",
+    "about_computer_case": "NZXT H710",
+    "about_computer_mb_title": "Základní deska:",
+    "about_computer_mb": "MSI MPG Z690 CARBON",
+    "about_computer_cpu_title": "Procesor:",
+    "about_computer_cpu": "Intel Core i7-12700K 3,6GHz 12core",
+    "about_computer_cooling_title": "Chlazení:",
+    "about_computer_cooling": "MSI MAG CORELIQUID 360R V2",
+    "about_computer_gpu_title": "Grafická karta:",
+    "about_computer_gpu": "GIGABYTE AORUS GeForce RTX 3070 MASTER 8GB",
+    "about_computer_psu_title": "Zdroj:",
+    "about_computer_psu": "Corsair HX850",
+    "about_computer_ram_title": "Operační paměť:",
+    "about_computer_ram": "Kingston FURY 16GB KIT DDR5 4800MHz CL38",
+    "about_computer_storage_title": "Uložiště:",
+    "about_computer_hdd_title": "HDD", 
+    "about_computer_hdd_2": "WD Black Mobile 1TB",
+    "about_computer_hdd_1": "WD Red Plus 1TB",
+    "about_computer_ssd_title": "SSD",
+    "about_computer_ssd_1": "Samsung 980 NVMe 500GB",
+    "about_computer_ssd_2": "WD Black SN770 NVMe 1TB",
+
+    "about_gear_title": "VYBAVENÍ",
+    "about_gear_desc": "Své vybavení se snažím průběžně vylepšovat.",
+    "about_gear_headphones_title": "Sluchátka:",
+    "about_gear_headphones": "HyperX Cloud II",
+    "about_gear_mic_title": "Mikrofón:",
+    "about_gear_mic": "BOYA BY M1000",
+    "about_gear_audiocard_title": "Zvukovka:",
+    "about_gear_audiocard": "Behringer UM2",
+    "about_gear_mouse_title": "Myš:",
+    "about_gear_mouse": "HyperX Pulsefire Surge RGB",
+    "about_gear_keyboard_title": "Klávesnice:",
+    "about_gear_keyboard": "HyperX Alloy Elite",
+    "about_gear_tablet_title": "Grafický tablet:",
+    "about_gear_tablet": "ONE BY WACOM M",
+    "about_gear_cam_title": "Kamera:",
+    "about_gear_cam": "Logitech C920e",
+    "about_gear_monitor_title": "Monitor:",
+    "about_gear_main_monitor": "31.5 MSI Optix AG321CQR",
+
+    "about_studium_title": "STUDIUM",
+    "about_studium_desc": "V roce 2019 jsem nastoupil na střední školu a to do oboru informační technologie s maturitou. Momentálně uvažuji nad pokračováním studia s vysokou školou.",
+
+    "experiences_title": "ZKUŠENOSTI",
+    "experiences_desc": "JAKÉ MÁM",
+
+    "experiences_frontend_title": "FRONTEND",
+    "experiences_html_title": "HTML",
+    "experiences_css_title": "CSS", 
+    "experiences_js_title": "JavaScript",
+    "experiences_bs_title": "",
+    "experiences_react_title": "",
+    "experiences_csharp_title": "",
+
+    "experiences_backend_title": "BACKEND",
+    "experiences_nodejs_title": "Node JS",
+    "experiences_mongodb_title": "MongoDB",
+    "experiences_php_title": "PHP",
+    "experiences_mysql_title": "MySQL",
+    "experiences_python_title": "Python",
+    "experiences_bash_title": "Bash",
+
+    "experiences_graphics_title": "GRAFIKA",
+    "experiences_photoshop_title": "Adobe Photoshop",
+    "experiences_illustrator_title": "Adobe Illustrator",
+    "experiences_autocad_title": "AutoCAD",
+    "experiences_blender_title": "Blender",
+    "experiences_c4d_title": "Cinema 4D",
+
+    "experiences_rating_5": "Vysoce pokročilý",
+    "experiences_rating_4": "Středně pokročilý",
+    "experiences_rating_3": "Zkušený",
+    "experiences_rating_2": "Začátečník",
+
+    "certification_desc": "MÉ CENNÉ",
+    "certification_title": "CERTIFIKACE",
+
+    "commissions_desc": "JAK PROBÍHÁ",  
+    "commissions_title": "ZAKÁZKA",
+
+    "commissions_setup_1": "1. Vyplníš ",
+    "commissions_setup_1_this": "tento",
+    "commissions_setup_form": "formulář",
+    "commissions_setup_2": "2. Ozvu se ti na email",
+    "commissions_setup_3": "3. Domluvíme se na detailech tvé zakázky",
+    "commissions_setup_4": "4. Domluvíme se na finálním datu odevzdání zakázky",
+    "commissions_setup_5": "5. Domluvíme se na konkrétní ceně",
+    "commissions_all": "To je vše!",
+
+    "form_commission_name": "Tvé jméno",
+    "form_commission_email": "Tvůj email",
+    "form_commission_desc": "Podrobný popis tvé zakázky",
+    "form_commission_type": "Typ zakázky:",
+    "form_commission_maxprice": "Maximální cena kterou jsi ochoten/na zaplatit",
+    "form_commission_payment_currency": "Měna platby:",
+    "form_commission_payment_option": "",
+    "form_commission_submit": "Odeslat formulář",
+
+    "portfolio_title": "PORTFÓLIO",
+    "portfolio_desc": "PODÍVEJ SE NA MÉ",
+  
+    "portfolio_commissions_title": "ZAKÁZKY",
+    "portfolio_works_title": "PRÁCE",
+
+    "support_title": "PODPOŘ",
+    "support_desc": "FINANČNĚ MĚ",
+
+    "support_monthly": "Zakoupit měsíční předplatné/členství",
+    "support_once": "Podpořit jednorázovou platbou",
+
+    "support_warning_title": "UPOZORNĚNÍ!",
+    "support_warning_desc": "Každá platba je dobrovolná! Do ničeho Vás nenutím a v žádném případě nechci. Peníze vracím jen v nutných případech!!!",
+
+    "support_coffee_title": "PŘEDPLATĚNÍM ŠÁLKU DOBRÉ KÁVY",
+    "support_coffee_info": "Tímto způsobem mě můžeš měsíčně podpořit v tom co momentálně dělám. Všechny tyto peníze půjdou na kafe aby jsem byl při smyslech a pracoval jako mašina!",
+
+    "support_patreon_title": "ČLENSTVÍM PŘES PATREON",
+    "support_patreon_info": "Tento způsob členství ti umožní dostávat odměny za měsíční předplatné. Odměny se liší od typu daného členství.",
+
+    "support_paypal_title": "PLATBOU PŘES PAYPAL",
+    "support_paypal_info": "Tento způsob platby je VŽDY jednorázový. Je zde i možnost měsíční podpory ale to nechávám jen na vaší volbě!",
+
+    "support_thanks_title": "DĚKUJI VÁM!",
+    "support_thanks_desc": "Jsem vždy velice rád když mne kdokoliv podpoří ať už nějakým pěněžním obnosem nebo jen tím že má rád mojí tvorbu a sleduje co dělám! Každého jednoho z Vás si moc cením!",
+
+    "contact_desc": "CO TAKHLE NAVÁZAT",
+    "contact_title": "KONTAKT",
+
+    "social_media_title": "SOCIÁLNÍ MÉDIA",
+
+    "social_name_twitch": "Twitch",
+    "social_name_instagram": "Instagram",
+    "social_name_youtube": "Youtube",
+    "social_name_discord": "Discord",
+    "social_name_tiktok": "TikTok", 
+    "social_name_twitter": "Twitter",
+    "social_name_reddit": "Reddit",
+    "social_name_artstation": "Artstation",
+    "social_name_devianart": "Devianart",
+    "social_name_github": "Github",
+
+    "usefull_links_title": "UŽITEČNÉ ODKAZY",
+
+    "usefull_link_aboutme": "O mně",
+    "usefull_link_portfolio": "Portfolio",
+    "usefull_link_support": "Finanční podpora"
+
+
+
+  }
+  

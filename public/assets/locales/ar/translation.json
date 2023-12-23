@@ -1,0 +1,139 @@
+{
+  "app_title": "فارمولورد",
+  "app_desc": "مصمم جرافيك ومبرمج وطالب",
+  "language": "لغة",
+  "change_lang": "ترجمة الى",
+  "copyright_title": "فارمولورد © حقوق الطبع والنشر 2022",
+  "copyright_desc": " كل الحقوق محفوظة.",
+
+  "about_title": "ْعَنِّي",
+  "about_desc": "تعرف على المزيد",
+  "about_programs": "البرامج التي أستخدمها:",
+
+
+  "about_graphics_title": "الرسومات",
+  "about_graphics_desc": "I started with graphics around the middle of the year 2015 and since then I have been constantly trying to improve in it.",
+
+  "about_commissions_title": "COMMISSIONS",
+  "about_commissions_desc": "With commissions I started around start of the year 2019. I am very happy for each commission because it will teach me a lot of new things everytime.",
+  "about_commissions_desc_1": "I already have done ",
+  "about_commissions_number": "20+",
+  "about_commissions_desc_2": " successfull commissions.",
+
+
+  "about_programming_title": "PROGRAMMING",
+  "about_programming_desc": "I started with it around the end of the year 2018. For me it opened up a new perspective on the world of information technology and I try to move in it as much as possible, because I see a big future in it.",
+  "about_languages": "Programming languages that I use:",
+
+  "about_computer_title": "COMPUTER",
+  "about_computer_desc": "I use this computer to play the latest game titles, but mainly for graphic design.",
+  "about_computer_case_title": "Case:",
+  "about_computer_case": "NZXT H710",
+  "about_computer_mb_title": "Motherboard:",
+  "about_computer_mb": "MSI MPG Z690 CARBON",
+  "about_computer_cpu_title": "Processor:",
+  "about_computer_cpu": "Intel Core i7-12700K 3,6GHz 12core",
+  "about_computer_cooling_title": "Cooling:",
+  "about_computer_cooling": "MSI MAG CORELIQUID 360R V2",
+  "about_computer_gpu_title": "Graphic card:",
+  "about_computer_gpu": "GIGABYTE AORUS GeForce RTX 3070 MASTER 8GB",
+  "about_computer_psu_title": "Power supply:",
+  "about_computer_psu": "Corsair HX850",
+  "about_computer_ram_title": "RAM:",
+  "about_computer_ram": "Kingston FURY 16GB KIT DDR5 4800MHz CL38 [2x]",
+  "about_computer_storage_title": "Storage:",
+  "about_computer_hdd_title": "HDD:", 
+  "about_computer_hdd_2": "WD Black Mobile 1TB",
+  "about_computer_hdd_1": "WD Red Plus 1TB",
+  "about_computer_ssd_title": "SSD:",
+  "about_computer_ssd": "Samsung 980 NVME 500GB",
+
+  "about_gear_title": "GEAR",
+  "about_gear_desc": "I am constantly trying to improve my equipment.",
+  "about_gear_headphones_title": "Headphones:",
+  "about_gear_headphones": "HyperX Cloud II",
+  "about_gear_mic_title": "Mic:",
+  "about_gear_mic": "BOYA BY M1000",
+  "about_gear_audiocard_title": "Audiocard:",
+  "about_gear_audiocard": "Behringer UM2",
+  "about_gear_mouse_title": "Mouse:",
+  "about_gear_mouse": "HyperX Pulsefire Surge RGB",
+  "about_gear_keyboard_title": "Keyboard:",
+  "about_gear_keyboard": "HyperX Alloy Elite",
+  "about_gear_tablet_title": "Graphic tablet:",
+  "about_gear_tablet": "ONE BY WACOM M",
+  "about_gear_cam_title": "Cam:",
+  "about_gear_cam": "Logitech C920e",
+  "about_gear_monitor_title": "Monitor:",
+  "about_gear_main_monitor": "31.5 MSI Optix AG321CQR",
+
+  "about_studium_title": "STUDY",
+  "about_studium_desc": "In the year 2019, I started high school in the field of information technology with high school diploma. I am currently considering continuing my studies with a university.",
+
+  "experiences_title": "EXPERIENCES",
+  "experiences_desc": "MY",
+
+  "experiences_frontend_title": "FRONTEND",
+  "experiences_html_title": "HTML",
+  "experiences_css_title": "CSS", 
+  "experiences_js_title": "JavaScript",
+  "experiences_bs_title": "Bash",
+  "experiences_react_title": "React",
+  "experiences_csharp_title": "C#",
+
+  "experiences_backend_title": "BACKEND",
+  "experiences_nodejs_title": "Node JS",
+  "experiences_mongodb_title": "MongoDB",
+  "experiences_php_title": "PHP",
+  "experiences_mysql_title": "MySQL",
+  "experiences_python_title": "Python",
+  "experiences_bash_title": "Bash",
+
+  "experiences_graphics_title": "GRAPHICS",
+  "experiences_photoshop_title": "Adobe Photoshop",
+  "experiences_illustrator_title": "Adobe Illustrator",
+  "experiences_autocad_title": "AutoCAD",
+  "experiences_blender_title": "Blender",
+  "experiences_c4d_title": "Cinema 4D",
+
+  "experiences_rating_5": "Highly advanced",
+  "experiences_rating_4": "Intermediate",
+  "experiences_rating_3": "Experienced",
+  "experiences_rating_2": "Beginner",
+
+  "commissions_desc": "HOW DO I MAKE",  
+  "commissions_title": "COMMISSIONS",
+
+  "portfolio_title": "PORTFOLIO",
+  "portfolio_desc": "LOOK AT MY",
+
+  "comissions": "COMMISSIONS",
+  "works": "WORKS",
+
+  "support_title": "SUPPORT ME",
+  "support_desc": "FINANCIALLY",
+
+  "support_coffee_title": "WITH A CUP OF COFFEE",
+  "support_coffee_desc": "",
+
+  "support_patreon_title": "MEMBERSHIP THROUGH PATREON",
+  "support_patreon_desc": "",
+
+  "support_paypal_title": "DONATION THROUGH PAYPAL",
+  "support_paypal_desc": "",
+
+  "contact_desc": "WE SHOULD MAKE",
+  "contact_title": "CONTACT",
+
+  "social_media_title": "SOCIAL MEDIA",
+
+  "social_media_twitch": "Twitch",
+  "social_media_instagram": "Instagram",
+  "social_media_youtube": "Youtube",
+  "social_media_discord": "Discord",
+  "social_media_tiktok": "TikTok", 
+  "social_media_twitter": "Twitter",
+  "social_media_reddit": "Reddit",
+
+  "usefull_links_title": "USEFULL LINKS"
+}

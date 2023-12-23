@@ -1,0 +1,25 @@
+
+.commission_setup{
+    margin: 0 auto;
+    text-align: center;
+}
+
+form{
+ height: 100%;
+    background: var(--color-primary);
+}
+
+input{
+    width: 80%;
+    background: transparent;
+    backdrop-filter: blur(15px);
+}
+
+.commission_setup{
+    margin-bottom: 3rem;  
+}
+
+form input{
+    margin: 1rem;
+}
+
